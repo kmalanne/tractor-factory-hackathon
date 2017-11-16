@@ -1,6 +1,6 @@
 # Tractor chat
 
-Live chat client using ReactJS and Firebase done in tractor factory Hackathon in 10.-11.11.2017.
+Live chat client using ReactJS and Firebase done in tractor factory Hackathon on 10.-11.11.2017.
 
 ![chat_picture](https://user-images.githubusercontent.com/16552478/32899154-e11a7d1c-caf2-11e7-99ba-6bc39629dbdc.png)
 
