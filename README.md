@@ -4,7 +4,7 @@ Live chat client using ReactJS and Firebase done in tractor factory Hackathon in
 
 In the project directory, you can run:
 
-### `npm install``
+### `npm install`
 
 Install dependencies
 
